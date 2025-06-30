@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Daniel dos Santos Balbino Marcelino
 
-<!--
-**Danielbalbino01/Danielbalbino01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas  
+🏫 ETE FMC — Santa Rita do Sapucaí, MG
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Um pouco sobre mim
+
+Sou um estudante curioso e apaixonado por tecnologia. Gosto de entender como as coisas funcionam por trás das telas — desde a lógica de um programa até o controle de hardware.  
+
+📚 Atualmente estou aprendendo e me aprofundando em:
+
+- Desenvolvimento de software
+- Computação gráfica
+- Programação para sistemas embarcados
+- Organização e estruturação de projetos
+
+---
+
+## 🛠️ Tecnologias que venho usando
+
+- **C#** – Para interfaces, lógica e aplicações com Windows Forms  
+- **C++** – Para entender o funcionamento do computador em nível mais próximo do hardware
+
+---
+
+## 📫 Onde me encontrar
+
+- Email: danidanieldossantosbalbinoma@gmail.com
+
+
